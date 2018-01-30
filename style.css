@@ -1,0 +1,26 @@
+body{
+	background-image: url(images/darkness.png);
+	background-repeat: repeat;
+	color: #D9DBF1;
+	font-family: 'Lobster', cursive;
+}
+
+.container-fluide{
+	padding-top: 10%;
+}
+
+/* First row */
+hr{
+	border-bottom: 1px solid #fff;
+	width: 600px;
+}
+
+/* Second row */
+.box{
+	padding-left: 28%;
+}
+
+.quote-box{
+	padding-left: 10%;
+}
+
